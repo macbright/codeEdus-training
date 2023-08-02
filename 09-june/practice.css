@@ -1,0 +1,42 @@
+.navbar {
+    background-color: black;
+    color: white;
+    height: 60px;
+    margin-bottom: 150px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+/* .parent {
+    position: relative;
+    height: 100px;
+    background-color: gray;
+    margin-bottom: 20px;
+} */
+
+.theo2 {
+    float: right;
+}
+.main {
+    height: 400px;
+    background-color: green;
+    float: left;
+    width: 70%;
+    margin-right: 30px;
+ 
+}
+
+.sidebar {
+    height: 400px;
+    background-color: blue;
+    float: right;
+    width: 25%;
+}
+.clear {
+    clear: both;
+}
+.more-layout {
+    background-color: yellow;
+    height: 400px;
+    margin-top: 30px;
+}
